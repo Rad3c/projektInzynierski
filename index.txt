@@ -1,2 +1,3 @@
 dupa
 linia testowa- branch test
+nowa linia konflikt w branch -master
